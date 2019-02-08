@@ -1,0 +1,28 @@
+body {
+  background-color: #34495e;
+  font-family: "Roboto", sans-serif;
+  color: #3498db;
+}
+
+.mood {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#name {
+  text-align: center;
+}
+
+ul li a {
+  color: white;
+}
+
+#about {
+  color: indianred;
+  text-align: center;
+  font-size: 25px;
+}
+
